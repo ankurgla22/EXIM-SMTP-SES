@@ -6,10 +6,6 @@ Docker SMTP and SES image
 
 
  <pre>
-######################################################################
-#                   AUTHENTICATION CONFIGURATION                     #
-######################################################################
-
 begin authenticators
 ses_login:
 	driver = plaintext
